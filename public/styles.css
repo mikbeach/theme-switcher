@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a,
+a:focus {
+  color: inherit;
+}
+
+button {
+  color: inherit;
+  border-style: none;
+  background-color: transparent;
+  font-size: inherit;
+}
+
+button.active {
+  font-weight: bold;
+}
+
+body.dark {
+  background-color: black;
+  color: white;
+}
